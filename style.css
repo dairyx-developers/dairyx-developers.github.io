@@ -1,0 +1,14 @@
+body {
+    background-image: url('coming_soon.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+    }
+
+@media (max-width: 767px) {
+  body {
+    /* Background for mobile devices */
+    background-image: url('coming_soon_mobile.png');
+  }
+}
