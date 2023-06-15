@@ -6,7 +6,7 @@ body {
     background-position: center center;
     }
 
-@media (max-width: 1200px) {
+@media (max-width: 1300px) {
   body {
     /* Background for mobile devices */
     background-image: url('coming_soon_mobile.png');
